@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["REGRETS BIG DICK","Don't break Rules or daddy will Spank you","Having E-sex"];
+const statusMessages = ["gg./regretts","follow the rules!"];
 
 
 let currentIndex = 0;
